@@ -1,0 +1,1 @@
+This project is lab 3 for the Software Process Management class. This project demonstrates the use of git
